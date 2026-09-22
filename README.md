@@ -34,8 +34,8 @@ The project contains two major folders:
 ## Demos
 
 1. Demo application<br>
-   https://github.com/user-attachments/assets/f13db507-8a18-4787-9d97-3aa5b0686f59
+   <video src="https://github.com/user-attachments/assets/f13db507-8a18-4787-9d97-3aa5b0686f59" controls="controls" width="660%"/>
 
 2. Simple animation<br>
-   https://github.com/user-attachments/assets/fb44fa87-dae4-414d-95d7-65df74d69eee
-
+   <video src="https://github.com/user-attachments/assets/fb44fa87-dae4-414d-95d7-65df74d69eee" controls="controls" width="660%"/>
+   
