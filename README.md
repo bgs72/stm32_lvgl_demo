@@ -1,6 +1,6 @@
 # STM32 LVGL demo
 
-This demo shows how to use LVGL on an STM32F411 using an ST7735-based LCD display and KY040 rotary encoder.
+This demo shows how to use [LVGL](https://lvgl.io/) on an STM32F411 using an ST7735-based LCD display and KY040 rotary encoder.
 
 ## Hardware details
 
