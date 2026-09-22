@@ -34,7 +34,8 @@ The project contains two major folders:
 ## Demos
 
 1. Demo application<br>
-   <video src="KiCad/artifacts/stm32_lvgl_demo.mp4" controls width="66%"></video>
+   https://github.com/user-attachments/assets/f13db507-8a18-4787-9d97-3aa5b0686f59
 
 2. Simple animation<br>
-   <video src="KiCad/artifacts/stm32_lvgl_demo_perf.mp4" controls width="66%"></video>
+   https://github.com/user-attachments/assets/fb44fa87-dae4-414d-95d7-65df74d69eee
+
